@@ -7,7 +7,6 @@ namespace LinksApp
     {
         static void Main(string[] args)
         {
-
             ManipulateWithLinks.FileExistence();
             Navigate.MainMenu();
             
