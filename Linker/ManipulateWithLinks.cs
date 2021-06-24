@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Xml;
 using System.Xml.Linq;
@@ -7,7 +8,7 @@ namespace LinksApp
 {
     public class ManipulateWithLinks
     {
-        private static string path = "C:/Links.xml";
+        private const string path = "Links.xml";
 
         // Добавление новой ссылки.
         public static void AddNewLink()
@@ -38,6 +39,8 @@ namespace LinksApp
             InOut.Print("Добавьте описание: ");
             var descriptionInput = Console.ReadLine();
             var descriptionText = xDoc.CreateTextNode($"{descriptionInput}");
+            
+            /*InOut.Print("ID ссылки: ");*/
              
             // Добавляем узлы:
             urlAttr.AppendChild(urlText);
@@ -48,6 +51,12 @@ namespace LinksApp
             linkElement.AppendChild(descriptionElem);
             xRoot?.AppendChild(linkElement); //Проверяем, введена ли ссылка.
             xDoc.Save(path);
+
+            InOut.Print($"Ссылка {nameInput} успешно добавлена.");
+            
+            EndOfMethod();
+            
+            Navigate.MainMenu();
         }
         
         // Создание файла.
@@ -102,10 +111,22 @@ namespace LinksApp
             var xRoot = xDoc.DocumentElement;
             
             var deleteNode = xRoot.SelectSingleNode($"link[name = \"{nameOfLink}\"]");
-            xRoot.RemoveChild(deleteNode);
-            xDoc.Save(path);
             
-            InOut.Print("Удаление элемента прошло успешно.");
+            if (deleteNode != null)
+            {
+                xRoot.RemoveChild(deleteNode);
+                xDoc.Save(path);
+            
+                InOut.Print("Удаление элемента прошло успешно.");
+            }
+            else
+            {
+                InOut.Print("Введено некорректное имя ссылки.");
+            }
+            
+            EndOfMethod();
+            
+            Navigate.MainMenu();
         }
         
         // Проверка наличия файла.
@@ -116,6 +137,47 @@ namespace LinksApp
                 FileCreate(path);
                 DeleteDefaultElement(path);
             }
+        }
+        
+        // Вывод списка всех ссылок.
+        public static void DisplayAllLinks()
+        {
+            var weblinks = new List<Weblinks>();
+ 
+            var xDoc = new XmlDocument();
+            xDoc.Load(path);
+            var xRoot = xDoc.DocumentElement;
+            foreach (XmlElement xnode in xRoot)
+            {
+                var link = new Weblinks();
+                var attr = xnode.Attributes.GetNamedItem("url");
+                if (attr != null)
+                    link.Url = attr.Value;
+ 
+                foreach (XmlNode childnode in xnode.ChildNodes)
+                {
+                    if (childnode.Name == "name")
+                        link.Name = childnode.InnerText;
+ 
+                    if (childnode.Name == "description")
+                        link.Description = childnode.InnerText;
+                }
+                weblinks.Add(link);
+            }
+            foreach (var l in weblinks)
+                Console.WriteLine($"{l.Name}");
+            
+            EndOfMethod();
+            
+            Navigate.MainMenu();
+        }
+        
+        // Завершение метода.
+        public static void EndOfMethod()
+        {
+            InOut.Print("Нажмите \"Enter\" чтобы продолжить.");
+            
+            Console.Read();
         }
     }
 }

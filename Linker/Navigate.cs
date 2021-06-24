@@ -8,7 +8,7 @@ namespace LinksApp
         {
             while (true)
             {
-                InOut.Print("----------\nГлавное меню\n----------\nВыберите операцию:\n1. Добавить ссылку\n2. Удалить ссылку\n----------\nНажмите Q для выхода");
+                InOut.Print("Главное меню\n----------\nВыберите операцию:\n1. Добавить ссылку\n2. Удалить ссылку\n3. Вывести список ссылок.\n----------\nНажмите Q для выхода");
 
                 var chooseMenuItem = Console.ReadLine();
 
@@ -25,8 +25,13 @@ namespace LinksApp
 
                         ManipulateWithLinks.DeleteElementByName($"{nameOfLink}");
                         break;
+                    
+                    case "3":
+                        ManipulateWithLinks.DisplayAllLinks();
+                        break;
 
-                    case "Q" or "q":
+                    case "Q":
+                    case "q":
                         break;
 
                     default:
