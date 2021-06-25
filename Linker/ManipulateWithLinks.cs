@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Xml;
 using System.Xml.Linq;
 
@@ -8,13 +9,13 @@ namespace LinksApp
 {
     public class ManipulateWithLinks
     {
-        private const string path = "Links.xml";
+        private const string Path = "Links.xml";
 
         // Добавление новой ссылки.
         public static void AddNewLink()
         {
             var xDoc = new XmlDocument();
-            xDoc.Load(path);
+            xDoc.Load(Path);
             var xRoot = xDoc.DocumentElement;
                         
             // Создаём новый элемент Link:
@@ -39,9 +40,7 @@ namespace LinksApp
             InOut.Print("Добавьте описание: ");
             var descriptionInput = Console.ReadLine();
             var descriptionText = xDoc.CreateTextNode($"{descriptionInput}");
-            
-            /*InOut.Print("ID ссылки: ");*/
-             
+
             // Добавляем узлы:
             urlAttr.AppendChild(urlText);
             nameElem.AppendChild(nameText);
@@ -50,7 +49,7 @@ namespace LinksApp
             linkElement.AppendChild(nameElem);
             linkElement.AppendChild(descriptionElem);
             xRoot?.AppendChild(linkElement); //Проверяем, введена ли ссылка.
-            xDoc.Save(path);
+            xDoc.Save(Path);
 
             InOut.Print($"Ссылка {nameInput} успешно добавлена.");
             
@@ -87,7 +86,7 @@ namespace LinksApp
             xdoc.Add(links);
             
             // Сохраняем документ:
-            xdoc.Save(path);
+            xdoc.Save(Path);
         }
         
         // Удаление первого элемента. (Для элемента, созданного по умолчанию).
@@ -95,35 +94,42 @@ namespace LinksApp
         {
             // Удаляем элемент, созданный по умолчанию.
             var xDoc = new XmlDocument();
-            xDoc.Load(path);
+            xDoc.Load(Path);
             var xRoot = xDoc.DocumentElement;
-            
-            var firstNode = xRoot.FirstChild;
-            xRoot.RemoveChild(firstNode);
-            xDoc.Save(path);
+
+            if (xRoot != null)
+            {
+                var firstNode = xRoot.FirstChild;
+                xRoot.RemoveChild(firstNode ?? throw new InvalidOperationException());
+            }
+
+            xDoc.Save(Path);
         }
         
         // Удаление ссылки по имени.
         public static void DeleteElementByName(string nameOfLink)
         {
             var xDoc = new XmlDocument();
-            xDoc.Load(path);
+            xDoc.Load(Path);
             var xRoot = xDoc.DocumentElement;
-            
-            var deleteNode = xRoot.SelectSingleNode($"link[name = \"{nameOfLink}\"]");
-            
-            if (deleteNode != null)
+
+            if (xRoot != null)
             {
-                xRoot.RemoveChild(deleteNode);
-                xDoc.Save(path);
+                var deleteNode = xRoot.SelectSingleNode($"link[name = \"{nameOfLink}\"]");
             
-                InOut.Print("Удаление элемента прошло успешно.");
-            }
-            else
-            {
-                InOut.Print("Введено некорректное имя ссылки.");
-            }
+                if (deleteNode != null)
+                {
+                    xRoot.RemoveChild(deleteNode);
+                    xDoc.Save(Path);
             
+                    InOut.Print("Удаление элемента прошло успешно.");
+                }
+                else
+                {
+                    InOut.Print("Введено некорректное имя ссылки.");
+                }
+            }
+
             EndOfMethod();
             
             Navigate.MainMenu();
@@ -132,10 +138,10 @@ namespace LinksApp
         // Проверка наличия файла.
         public static void FileExistence()
         {
-            if (!(File.Exists(path)))
+            if (!(File.Exists(Path)))
             {
-                FileCreate(path);
-                DeleteDefaultElement(path);
+                FileCreate(Path);
+                DeleteDefaultElement(Path);
             }
         }
         
@@ -145,27 +151,33 @@ namespace LinksApp
             var weblinks = new List<Weblinks>();
  
             var xDoc = new XmlDocument();
-            xDoc.Load(path);
+            xDoc.Load(Path);
             var xRoot = xDoc.DocumentElement;
-            foreach (XmlElement xnode in xRoot)
-            {
-                var link = new Weblinks();
-                var attr = xnode.Attributes.GetNamedItem("url");
-                if (attr != null)
-                    link.Url = attr.Value;
- 
-                foreach (XmlNode childnode in xnode.ChildNodes)
+
+            if (xRoot != null)
+                foreach (XmlElement xnode in xRoot)
                 {
-                    if (childnode.Name == "name")
-                        link.Name = childnode.InnerText;
- 
-                    if (childnode.Name == "description")
-                        link.Description = childnode.InnerText;
+                    var link = new Weblinks();
+                    var attr = xnode.Attributes.GetNamedItem("url");
+                    if (attr != null)
+                        link.Url = attr.Value;
+
+                    foreach (XmlNode childnode in xnode.ChildNodes)
+                    {
+                        if (childnode.Name == "name")
+                            link.Name = childnode.InnerText;
+
+                        if (childnode.Name == "description")
+                            link.Description = childnode.InnerText;
+                    }
+
+                    weblinks.Add(link);
                 }
-                weblinks.Add(link);
-            }
+
             foreach (var l in weblinks)
+            {
                 Console.WriteLine($"{l.Name}");
+            }
             
             EndOfMethod();
             
@@ -176,8 +188,71 @@ namespace LinksApp
         public static void EndOfMethod()
         {
             InOut.Print("Нажмите \"Enter\" чтобы продолжить.");
+
+            var programRepeat = Console.ReadLine();
+
+            switch (programRepeat)
+            {
+                default:
+                    InOut.Print("");
+                    break;
+            }
+        }
+        
+        // Редактирование ссылок.
+        public static void ChangeLink(string linkNameForChange, string changeOptionForChange)
+        {
+            var xdoc = XDocument.Load(Path);
+            var root = xdoc.Element("links");
+
+            if (root != null)
+                foreach (var xe in root.Elements("link").ToList())
+                {
+                    switch (changeOptionForChange)
+                    {
+                        case "1":
+                            // Изменение имяни.
+                            if (xe.Element("name")?.Value == linkNameForChange)
+                            {
+                                InOut.Print("Введите новое имя: ");
+                                var temp = Console.ReadLine();
+
+                                xe.Element("name").Value = temp;
+                            }
+
+                            break;
+
+                        case "2":
+                            // Изменение адреса.
+                            if (xe.Element("name")?.Value == linkNameForChange)
+                            {
+                                InOut.Print("Введите новый адрес: ");
+                                var temp = Console.ReadLine();
+
+                                xe.Attribute("url").Value = temp;
+                            }
+
+                            break;
+
+                        case "3":
+                            // Изменение описания.
+                            if (xe.Element("name")?.Value == linkNameForChange)
+                            {
+                                InOut.Print("Введите новое описание: ");
+                                var temp = Console.ReadLine();
+
+                                xe.Element("description").Value = temp;
+                            }
+
+                            break;
+                    }
+                }
+
+            xdoc.Save(Path);
             
-            Console.Read();
+            EndOfMethod();
+            
+            Navigate.MainMenu();
         }
     }
 }

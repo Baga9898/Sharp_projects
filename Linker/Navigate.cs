@@ -8,7 +8,7 @@ namespace LinksApp
         {
             while (true)
             {
-                InOut.Print("Главное меню\n----------\nВыберите операцию:\n1. Добавить ссылку\n2. Удалить ссылку\n3. Вывести список ссылок.\n----------\nНажмите Q для выхода");
+                InOut.Print("Главное меню\n----------\nВыберите операцию:\n1. Добавить ссылку\n2. Удалить ссылку\n3. Редактировать ссылку.\n4. Вывести список ссылок.\n----------\nНажмите Q для выхода");
 
                 var chooseMenuItem = Console.ReadLine();
 
@@ -27,6 +27,17 @@ namespace LinksApp
                         break;
                     
                     case "3":
+                        InOut.Print("Введите имя ссылки для изменения: ");
+                        var linkNameForChange = Console.ReadLine();
+                        
+                        InOut.Print("Выберите элемент для редактирования:\n1. Имя\n2. Адрес\n3. Описание");
+                        var changeOptionForChange = Console.ReadLine();
+                        
+                        ManipulateWithLinks.ChangeLink(linkNameForChange, changeOptionForChange);
+
+                        break;
+                    
+                    case "4":
                         ManipulateWithLinks.DisplayAllLinks();
                         break;
 
@@ -38,7 +49,6 @@ namespace LinksApp
                         InOut.Print("Выбранный вами пункт отсутствует.");
                         continue;
                 }
-
                 break;
             }
         }
