@@ -1,0 +1,17 @@
+﻿@model IEnumerable<MainAdiLink.Models.Weblink>
+
+@{
+    ViewBag.Title = "Главная";
+}
+
+<h1 class="animate__animated animate__fadeInUp">Избранные ресурсы</h1>
+
+@foreach (var item in Model)
+{
+    if (item.IsFavorite == true)
+    {
+        @await Html.PartialAsync("WeblinkItemPartial", item);
+    }
+
+}
+

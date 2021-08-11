@@ -1,0 +1,318 @@
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\appsettings.json
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.exe
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.deps.json
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.runtimeconfig.json
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.runtimeconfig.dev.json
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ref\MainAdiLink.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.pdb
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.Views.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.Views.pdb
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Humanizer.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.csproj.AssemblyReference.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.AssemblyInfoInputs.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.AssemblyInfo.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.csproj.CoreCompileInputs.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.RazorAssemblyInfo.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.RazorAssemblyInfo.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\staticwebassets\MainAdiLink.StaticWebAssets.Manifest.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\staticwebassets\MainAdiLink.StaticWebAssets.xml
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\scopedcss\bundle\MainAdiLink.styles.css
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.TagHelpers.input.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.TagHelpers.output.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.RazorCoreGenerate.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.RazorTargetAssemblyInfo.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.RazorTargetAssemblyInfo.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.Views.pdb
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.csproj.CopyComplete
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\ref\MainAdiLink.dll
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.pdb
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.genruntimeconfig.cache
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Weblinks\Create.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Weblinks\Delete.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Weblinks\Details.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Weblinks\Edit.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Weblinks\Index.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\WeblinksInsideCategories.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\InsideCategory\Index.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\InsideCategory\Details.cshtml.g.cs
+C:\Users\gushcbog\source\repos\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Shared\WeblinkItemPartial.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\appsettings.json
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.exe
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.deps.json
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.runtimeconfig.json
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.runtimeconfig.dev.json
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ref\MainAdiLink.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.pdb
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.Views.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\MainAdiLink.Views.pdb
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.csproj.AssemblyReference.cache
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.AssemblyInfoInputs.cache
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.AssemblyInfo.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.csproj.CoreCompileInputs.cache
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.RazorAssemblyInfo.cache
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.RazorAssemblyInfo.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\staticwebassets\MainAdiLink.StaticWebAssets.Manifest.cache
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\staticwebassets\MainAdiLink.StaticWebAssets.xml
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\scopedcss\bundle\MainAdiLink.styles.css
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.TagHelpers.input.cache
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.TagHelpers.output.cache
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.RazorCoreGenerate.cache
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\InsideCategory\Details.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\InsideCategory\Index.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Shared\WeblinkItemPartial.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\WeblinksInsideCategories.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Weblinks\Create.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Weblinks\Delete.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Weblinks\Details.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Weblinks\Edit.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\Weblinks\Index.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.RazorTargetAssemblyInfo.cache
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.RazorTargetAssemblyInfo.cs
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.Views.pdb
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.csproj.CopyComplete
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\ref\MainAdiLink.dll
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.pdb
+C:\Users\Богдан Гущин\Desktop\это папка\Pron\MainAdiLink\MainAdiLink\obj\Debug\net5.0\MainAdiLink.genruntimeconfig.cache

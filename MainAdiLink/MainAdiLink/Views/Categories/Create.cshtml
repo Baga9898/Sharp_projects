@@ -1,0 +1,35 @@
+﻿@model MainAdiLink.Models.Category
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Создание категории";
+}
+
+<div class="modal-content">
+    <div class="modal-header">
+        <h1 class="animate__animated animate__fadeInUp">Создание</h1>
+        <button class="close" data-dismiss="modal" area-hidden="true">X</button>
+    </div>
+    <div class="modal-body">
+        <div class="row animate__animated animate__fadeInUp">
+            <div class="col-md-4">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="CategoryName" class="control-label">Имя</label>
+                        <input asp-for="CategoryName" class="insideForm" />
+                        <span asp-validation-for="CategoryName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Description" class="control-label">Описание</label>
+                        <input asp-for="Description" class="insideForm" />
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Создать" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

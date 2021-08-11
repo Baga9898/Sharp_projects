@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MainAdiLink.Models.Weblink>
+
+@{
+    ViewData["Title"] = "AdiLink";
+}
+
+<table class="table animate__animated animate__fadeInUp">
+    <thead>
+        <tr>
+            <th>
+                Имя
+            </th>
+            <th>
+                Описание
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model)
+    {
+            <tr>
+                <td>
+                    <a href="http://@item.Url" target="_blank">@item.NameOfLink</a>
+                </td>
+                <td>
+                    @item.ShortDescription
+                </td>
+            </tr>
+}
+    </tbody>
+</table>

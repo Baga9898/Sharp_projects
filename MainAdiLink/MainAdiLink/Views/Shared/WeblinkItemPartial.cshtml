@@ -1,0 +1,23 @@
+﻿@model Weblink
+
+<div class="wrapperForList d-flex animate__animated animate__fadeInUp">
+    <div class="wrapperForList__leftside d-flex">
+        <div class="wrapperForList__leftside_left">
+            <p class="linkTable linkTable-first">Имя:</p>
+            <p class="linkInfoTable linkInfoTable-first"><a class="gradient-text" href="//@Model.Url" target="_blank">@Model.NameOfLink</a></p>
+        </div>
+        <div class="wrapperForList__leftside_right">
+            <p class="linkTable linkTable-second">Описание:</p>
+            <p class="linkInfoTable">@Model.ShortDescription</p>
+        </div>
+
+
+        @if (Model.IsFavorite) {
+        <div class="isFavorite fas fa-star favoriteClick" data-weblink-id="@Model.Id"></div>
+        } else{
+        <div class="isFavorite fas fa-star" data-weblink-id="@Model.Id"></div>
+        }
+
+    </div>
+
+</div>

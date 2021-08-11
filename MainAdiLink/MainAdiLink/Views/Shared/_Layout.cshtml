@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AdiLink - @ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/fontawesome/all.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400&display=swap" rel="stylesheet">
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet"/>
+
+</head>
+<body>
+
+    <header class="header">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="header__userInfoSection_wrapper col-12">
+                    <div class="header__userInfoSection tile">
+                        <div class="header__userInfoSection_leftside d-flex">
+                            <img class="userInfoSection__image" src="~/img/testimg.jpg" />
+                            <p class="userInfoSection__userName">Login</p>
+                        </div>
+                        <div class="header__userInfoSection_rightside d-flex">
+                            <i class="switch-theme fas fa-lightbulb"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="horizontalWrapper d-flex">
+        <section class="leftsideMenu">
+            <div class="container leftsideMenu-container">
+                <div class="row leftsideMenu-row">
+                    <div class="leftsideMenu__menu_wrapper">
+                        <nav class="leftsideMenu__menu">
+                            <ul class="leftsideMenu__menu_item">
+                                <li class="leftsideMenu__menu_item-list">
+                                    <a href="~/Home/Index">Главная</a>
+                                </li>
+                            </ul>
+                            @foreach (var item in ViewBag.MenuCategories)
+                            {
+                                <ul class="leftsideMenu__menu_item d-flex flex-column">
+                                    <li class="leftsideMenu__menu_item-list">
+                                        <a href='@Url.Action("Details","InsideCategory", new { id = item.Id})'>@item.CategoryName</a>
+                                    </li>
+                                </ul>
+                            }
+                        </nav>
+                        <div class="leftsideMenu__menu_betweenLine"></div>
+                        <div class="leftsideMenu__adminMenu header__menu">
+                            <ul class="leftsideMenu__menu_item header__adminMenu_item">
+                                <li class="leftsideMenu__menu_item-list"><a href="~/Categories/Index">Категории</a></li>
+                            </ul>
+                            <ul class="leftsideMenu__menu_item header__adminMenu_item">
+                                <li class="leftsideMenu__menu_item-list"><a href="~/Weblinks/Index">Ресурсы</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="mainSection">
+            <div class="container">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        </section>
+    </div>
+
+    <footer class="footer">
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,54 @@
+﻿@model MainAdiLink.Models.Weblink
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Создание ресурса";
+}
+
+<div class="modal-content">
+    <div class="modal-header">
+        <h1 class="animate__animated animate__fadeInUp">Создание</h1>
+        <button class="close" data-dismiss="modal" area-hidden="true">X</button>
+    </div>
+    <div class="modal-body">
+        <div class="row animate__animated animate__fadeInUp">
+            <div class="col-md-4">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="NameOfLink" class="control-label">Имя</label>
+                        <input asp-for="NameOfLink" class="insideForm" />
+                        <span asp-validation-for="NameOfLink" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Url" class="control-label">Адрес</label>
+                        <input asp-for="Url" class="insideForm" />
+                        <span asp-validation-for="Url" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ShortDescription" class="control-label">Короткое описание</label>
+                        <input asp-for="ShortDescription" class="insideForm" />
+                        <span asp-validation-for="ShortDescription" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="LongDescription" class="control-label">Длинное описание</label>
+                        <input asp-for="LongDescription" class="insideForm" />
+                        <span asp-validation-for="LongDescription" class="text-danger"></span>
+                    </div>
+                    @*<div class="form-group form-check">
+                        <label class="form-check-label">
+                            <input class="form-check-input" asp-for="IsFavorite" /> Избранное
+                        </label>
+                    </div>*@
+                    <div class="form-group">
+                        <label asp-for="CategoryId" class="control-label">Категория</label>
+                        <select asp-for="CategoryId" class="insideForm" asp-items="ViewBag.Categories"></select> @*Изменить на CategoryName и исправить базу данных*@
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Создать" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MainAdiLink.Models.Category>
+
+@{
+    ViewData["Title"] = "Категории";
+}
+
+<h1 class="categoryTitle animate__animated animate__fadeInUp">Категории</h1>
+
+<p class="animate__animated animate__fadeInUp">
+    <a class="createLink modalOpen" asp-action="Create"><button class="createButton" asp-action="Create">+</button>Создать новую категорию</a>
+</p>
+
+<form class="searchForm searchForm_categories animate__animated animate__fadeInUp" asp-controller="Categories" asp-action="Index" method="get">
+    <p class="searchForm__wrapper">
+        <input class="searchForm__textZone" placeholder="Поиск:" type="text" name="SearchString" />
+        <input class="searchForm__searchButton" type="submit" value="Найти" />
+    </p>
+</form>
+
+@foreach (var item in Model)
+{
+    <div class="wrapperForList d-flex animate__animated animate__fadeInUp">
+        <div class="wrapperForList__leftside d-flex">
+            <div class="wrapperForList__leftside_left">
+                <p class="linkTable linkTable-first">Имя:</p>
+                <p class="linkInfoTable linkInfoTable-first">@Html.DisplayFor(modelItem => item.CategoryName)</p>
+            </div>
+        </div>
+
+        <div class="wrapperForList__rightside">
+            <a class="modalOpen" asp-action="Edit" asp-route-id="@item.Id">Изменить</a> |
+            <a class="modalOpen" asp-action="Details" asp-route-id="@item.Id">Подробнее</a> |
+            <a class="modalOpen" asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+        </div>
+    </div>
+}
+
+<div id="modDialog" class="modal fade">
+    <div id="dialogContent" class="modal-dialog"></div>
+</div>

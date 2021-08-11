@@ -1,0 +1,14 @@
+﻿@model InsideCategoryDetailsViewModel
+
+@{
+    ViewData["Title"] = @Model.CategoryName;
+}
+
+<h1 class="animate__animated animate__fadeInUp">
+    @Model.CategoryName
+</h1>
+
+@foreach (var item in Model.WebLinks)
+{
+    @await Html.PartialAsync("WeblinkItemPartial", item);
+}
