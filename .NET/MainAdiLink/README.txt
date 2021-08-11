@@ -1,0 +1,1 @@
+Web Application on .NET Core MVC for consolidating and manipulating resources.
